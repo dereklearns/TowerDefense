@@ -1,0 +1,1 @@
+open game.py to see simulation. Left click adds a "enemy" which gradually moves up so click on bottom of screen.
