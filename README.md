@@ -3,7 +3,7 @@ Uses pygame.
 -includes a lot of math. Need to calculate angle to shoot projectile, shoot it at a speed to hit target (last implementation), program units to follow a path, and basic handling of drag and drop functionality.
 
 #The Basics
-Create a tower with a perimeter, made it visual for testing. Towers lock onto creep (term in TD's for the bad guys) and fire their projectile. Creep move and towers shoot! Tower locks onto first creep in the creep array|list.
+Create a tower with a perimeter, made it visual for testing. Towers lock onto creep (term in TD's for the bad guys) and fire their projectile. Creep move and towers shoot! Tower locks onto first creep in the creep array|list. You can see the tower not firing because I have implemented a function to iteratre through the list to find the closet first in the creep array|list. 
 ![The Basics](https://raw.githubusercontent.com/dadam88/TowerDefense/master/ProgressImages/progress_thebasics.gif)
 
 #Placing Towers
